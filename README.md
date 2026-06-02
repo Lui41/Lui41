@@ -1,3 +1,6 @@
+<img width="1979" height="794" alt="ChatGPT Image 28 abr 2026, 02_42_54 p m" src="https://github.com/user-attachments/assets/c950b525-5b50-4b74-9b96-8e86e586579c" />
+
+
 # Hola, soy Luis Álvarez
 
 ## Backend Developer | Cybersecurity Student
